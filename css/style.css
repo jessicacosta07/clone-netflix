@@ -11,7 +11,8 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif';
+    font-family: 'Times New Roman';
+    color: #fff;
 }
 
 header .container{
@@ -36,4 +37,11 @@ header nav a {
 
 header nav a:hover{
     color: #fff;
+}
+
+.serie-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0, 0, 0, .50),rgba(0, 0, 0, .50) 100%), url('/img/capa-logo.jpg');
+    height: 400px;
+    background-size: cover;
 }
