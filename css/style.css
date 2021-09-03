@@ -1,4 +1,4 @@
-.root{
+:root{
     --vermelho: #E50914;
     --preto: #141414;
 }
@@ -10,9 +10,15 @@
 }
 
 body{
-
+    background: var(--preto);
+    font-family: 'Times New Roman', Times, serif';
 }
 
 header .container{
     
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: 'Arial Black';
 }
