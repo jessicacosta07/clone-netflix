@@ -9,5 +9,6 @@
 ![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Page
-![image](https://user-images.githubusercontent.com/65916297/131946817-31e32433-2771-481c-842a-55ef2f3c0549.png)
+![image](https://user-images.githubusercontent.com/65916297/131946926-1cd6a94f-69fd-4296-92af-c6578762ac2a.png)
+
 
